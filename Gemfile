@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+ruby '2.2.3'
 # Middleman
 gem 'middleman', '~>3.3.10'
 gem 'middleman-gh-pages', '~> 0.0.3'
